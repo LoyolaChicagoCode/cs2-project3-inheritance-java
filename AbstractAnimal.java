@@ -2,8 +2,7 @@ abstract class AbstractAnimal implements Animal {
     private double weight;
     private final String name;
     public AbstractAnimal(final String name, final double weight) {
-        this.name = name;
-        this.weight = weight;
+        // TODO initialize the instance variables - very important
     }
     public String getName() {
         return name;
