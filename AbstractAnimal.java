@@ -1,4 +1,4 @@
-abstract class AbstractAnimal implements Animal {
+public abstract class AbstractAnimal implements Animal {
     private double weight;
     private final String name;
     public AbstractAnimal(final String name, final double weight) {

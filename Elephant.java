@@ -1,4 +1,4 @@
-class Elephant extends AbstractAnimal {
+public class Elephant extends AbstractAnimal {
     public Elephant(final String name, final double weight) {
         // TODO your job
     }

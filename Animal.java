@@ -1,4 +1,4 @@
-interface Animal {
+public interface Animal {
     String getName();
     double getWeight();
     double getDailyFoodPercentage();
