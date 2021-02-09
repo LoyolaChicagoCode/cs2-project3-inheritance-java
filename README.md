@@ -1,4 +1,6 @@
-# Team project
+# Loyola COMP 271 Lab 2: inheritance
+
+# Group activity
 
 # Overview
 
