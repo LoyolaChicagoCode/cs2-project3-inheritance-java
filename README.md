@@ -2,7 +2,7 @@
 
 ## Group activity
 
-In this project, we are going to explore classes and inheritance.
+In this activity, we are going to explore classes and inheritance.
 
 # Instructions
 
