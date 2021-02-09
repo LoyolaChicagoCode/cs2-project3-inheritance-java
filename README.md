@@ -1,8 +1,6 @@
 # Loyola COMP 271 Lab 2: inheritance
 
-# Group activity
-
-# Overview
+## Group activity
 
 In this project, we are going to explore classes and inheritance.
 
