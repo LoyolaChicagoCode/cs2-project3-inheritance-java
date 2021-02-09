@@ -1,4 +1,4 @@
-# Loyola COMP 271 Lab 2: inheritance
+# Loyola COMP 271 Lab 2: inheritance and interfaces
 
 ## Group activity
 
