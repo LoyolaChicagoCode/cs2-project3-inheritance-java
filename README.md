@@ -1,5 +1,7 @@
 # Loyola COMP 271 Lab 2: inheritance and interfaces
 
+## TODO grading rubric
+
 ## Group activity
 
 In this activity, we are going to explore classes and inheritance.
