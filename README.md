@@ -1,7 +1,5 @@
 # Loyola COMP 271 Lab 2: inheritance and interfaces
 
-## TODO grading rubric
-
 ## Group activity
 
 In this activity, we are going to explore classes and inheritance.
@@ -20,3 +18,10 @@ Be sure to ask your TA and instructor for help as you are working on this assign
 # Submission
 
 Export your complete source project and submit as an attachment through Sakai.
+
+# Grading (total 3.5 points)
+
+- 1 project
+- 1 TODO items
+- 1 additional animal classes
+- 0.5 output2.txt
