@@ -1,4 +1,4 @@
-# Loyola COMP 271 Lab 2: inheritance and interfaces
+# Loyola COMP 271 Project 3: inheritance and interfaces
 
 ## Group activity
 
@@ -19,9 +19,9 @@ Be sure to ask your TA and instructor for help as you are working on this assign
 
 Export your complete source project and submit as an attachment through Sakai.
 
-# Grading (total 3.5 points)
+# Grading (total 5 points)
 
-- 1 project
-- 1 TODO items
-- 1 additional animal classes
+- 1 submission via Replit
+- 2 TODO items
+- 1.5 additional animal classes
 - 0.5 output2.txt
